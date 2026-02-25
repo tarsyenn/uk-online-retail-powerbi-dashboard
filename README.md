@@ -1,7 +1,31 @@
 # UK Online Retail Analysis | Power BI Dashboard
 
 ## Project Overview
-This project analyzes a UK-based non-store online retail dataset to understand business performance, customer behavior, and product demand using Power BI.
+This project analyzes a UK-based non-store online retail dataset to understand business performance, customer behavior, and product demand using Power BI & SQL.
+
+## Tools & Skills Used
+Power BI  
+SQL  
+Excel  
+Data Modeling  
+DAX  
+Data Cleaning  
+Business Analysis  
+Dashboard Design
+
+## Data Preparation Using SQL
+
+Before building the dashboard, SQL was used for:
+
+- Removing duplicate records
+- Data filtering and validation
+- Aggregating customer and order level data
+- Preparing data for Power BI analysis
+
+Example SQL concept used:
+Window Functions (ROW_NUMBER) to remove duplicates.
+
+---
 
 The dashboard focuses on identifying:
 - Revenue trends over time
